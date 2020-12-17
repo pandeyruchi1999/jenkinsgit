@@ -12,6 +12,7 @@ namespace SampleJenkinsProject
         {
             Console.WriteLine("This is my first jenkins project");
             Console.WriteLine("Edit after first build");
+             Console.WriteLine("Deliberate error);
             Console.ReadLine()
         }
     }
